@@ -4,4 +4,6 @@
 
 Fork of [SimpleLoader](https://github.com/WilsonPublic/SimpleLoader) featuring [VAC-Bypass-Loader](https://github.com/danielkrupinski/VAC-Bypass-Loader) and [otc3](https://anonfiles.com/bcS7F2wcp8/otv3_dll)
 
+Original from doonayy/fortheboys, this is just the same loader featuring the latest otc dll
+
 ## [Download](https://github.com/doonayy/fortheboys/releases/download/csgo-cheat/SimpleLoader.exe)
