@@ -6,4 +6,4 @@ Fork of [SimpleLoader](https://github.com/WilsonPublic/SimpleLoader) featuring [
 
 Original from doonayy/fortheboys, this is just the same loader featuring the latest otc dll
 
-## [Download](https://github.com/doonayy/fortheboys/releases/download/csgo-cheat/SimpleLoader.exe)
+## [Download](https://github.com/acey1337/otc3updated/releases/download/csgo-otc/SimpleLoader.exe)
