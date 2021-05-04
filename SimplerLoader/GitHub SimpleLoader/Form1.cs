@@ -47,7 +47,7 @@ namespace WindowsFormsApp2
         {
                 WebClient dl = new WebClient();
                 string mainpath = "C:\\cheat.dll"; //You can change the path to wherever you want but just remember to use "\\" instead of just one "\"
-                dl.DownloadFile("https://github.com/acey1337/otc3updated/raw/main/miscs/otv3.dll", mainpath); //Replace "DLL URL" with the URL to directly download your DLL [Example: http://myurl.com/MYDLL.dll]
+                dl.DownloadFile("https://github.com/acey1337/otc3updated/raw/main/miscs/OTv3.dll", mainpath); //Replace "DLL URL" with the URL to directly download your DLL [Example: http://myurl.com/MYDLL.dll]
                 var name = "csgo"; //Replace "csgo" with any exe you want [Example: For Team Fortress 2 you would replace it with "hl2"]
                 var target = Process.GetProcessesByName(name).FirstOrDefault();
                 var path = mainpath;
